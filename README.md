@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-Welcome to the GitHub
+Welcome to the GitHub.
